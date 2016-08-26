@@ -1,39 +1,40 @@
-# Éú»îĞ¡ÖúÊÖ
-[APKÏÂÔØ](https://raw.githubusercontent.com/huyu516/lifeassistant/master/build/lifeassistant.apk)
+# ç”Ÿæ´»å°åŠ©æ‰‹
+[APKä¸‹è½½](https://raw.githubusercontent.com/huyu516/lifeassistant/master/build/lifeassistant.apk)
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/donwload.png)
-É¨ÂëÏÂÔØ
 
-## ¹¦ÄÜ
-- ÈÎÎñ£º¼ÇÂ¼Ã¿ÌìÒªÍê³ÉµÄÈÎÎñºÍ²é¿´ÒÑ¾­Íê³ÉµÄÈÎÎñ
-- Í¨Ñ¶Â¼£º¿ÉÒÔ´òµç»°£¬×î½üÁªÏµÆµ·±µÄÈËÅÅÔÚ×îÉÏÃæ
-- Å®ĞÔÈÕÀú£º¼ÆËãÅ®ÓÑÉúÀíÖÜÆÚ(¹Ì¶¨29Ìì)£¬²¢¸øÓèÌáÊ¾
-- ¿ªÖ§¼ÇÂ¼£º¼ÇÂ¼×î½üÔÚÁãÊ³£¬³Ô·¹£¬¹ºÎïÉÏµÄ»¨Ïú²¢»­³öÍ¼±í
+æ‰«ç ä¸‹è½½
 
-## Õ¹Ê¾
+## åŠŸèƒ½
+- ä»»åŠ¡ï¼šè®°å½•æ¯å¤©è¦å®Œæˆçš„ä»»åŠ¡å’ŒæŸ¥çœ‹å·²ç»å®Œæˆçš„ä»»åŠ¡
+- é€šè®¯å½•ï¼šå¯ä»¥æ‰“ç”µè¯ï¼Œæœ€è¿‘è”ç³»é¢‘ç¹çš„äººæ’åœ¨æœ€ä¸Šé¢
+- å¥³æ€§æ—¥å†ï¼šè®¡ç®—å¥³å‹ç”Ÿç†å‘¨æœŸ(å›ºå®š29å¤©)ï¼Œå¹¶ç»™äºˆæç¤º
+- å¼€æ”¯è®°å½•ï¼šè®°å½•æœ€è¿‘åœ¨é›¶é£Ÿï¼Œåƒé¥­ï¼Œè´­ç‰©ä¸Šçš„èŠ±é”€å¹¶ç”»å‡ºå›¾è¡¨
+
+## å±•ç¤º
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/menu.png)
 
-²Ëµ¥
+èœå•
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/task.png)
 
-Î´Íê³ÉÈÎÎñ£¬ĞÇĞÇ´ú±íÖØÒª³Ì¶È
+æœªå®Œæˆä»»åŠ¡ï¼Œæ˜Ÿæ˜Ÿä»£è¡¨é‡è¦ç¨‹åº¦
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/contact.png)
 
-Í¨Ñ¶Â¼
+é€šè®¯å½•
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/calender.png)
 
-Å®ĞÔÈÕÀú£¬ÏÔÊ¾¾àÀë×î½üµÄÒ»´ÎÀı¼Ù»¹ÓĞ¶àÉÙÌì£¬Ë«»÷¿ÉÒÔÉè¶¨Ò»¸öÀı¼ÙÈÕ
+å¥³æ€§æ—¥å†ï¼Œæ˜¾ç¤ºè·ç¦»æœ€è¿‘çš„ä¸€æ¬¡ä¾‹å‡è¿˜æœ‰å¤šå°‘å¤©ï¼ŒåŒå‡»å¯ä»¥è®¾å®šä¸€ä¸ªä¾‹å‡æ—¥
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/expense.png)
 
-¿ªÖ§¼ÇÂ¼ÁĞ±í
+å¼€æ”¯è®°å½•åˆ—è¡¨
 
 ![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/chart.png)
 
-×î½ü7Ìì¿ªÖ§·ÖÎöÍ¼±ê
+æœ€è¿‘7å¤©å¼€æ”¯åˆ†æå›¾æ ‡
 
 
 
