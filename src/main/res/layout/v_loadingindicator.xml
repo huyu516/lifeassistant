@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp">
+
+    <ProgressBar
+        android:id="@+id/pbLoading"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="21dp" />
+
+    <ImageView
+        android:id="@+id/ivLoading"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/done"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="加载中请稍等..."
+        android:textSize="20sp" />
+
+</LinearLayout>

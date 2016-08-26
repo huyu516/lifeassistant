@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/task"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="任务" />
+        <item
+            android:id="@+id/contacts"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="通讯录" />
+        <item
+            android:id="@+id/calendar"
+            android:icon="@android:drawable/ic_menu_month"
+            android:title="女性日历" />
+        <item
+            android:id="@+id/money"
+            android:icon="@android:drawable/ic_menu_upload"
+            android:title="开支记录" />
+    </group>
+
+    <item android:title="其他">
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="退出" />
+        </menu>
+    </item>
+
+</menu>
