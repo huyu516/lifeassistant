@@ -1,5 +1,8 @@
 # 生活小助手
-[APK下载](https://raw.githubusercontent.com/huyu516/lifeassistant/master/build/lifeassistant.apk) 
+[APK下载](https://raw.githubusercontent.com/huyu516/lifeassistant/master/build/lifeassistant.apk)
+
+![](https://raw.githubusercontent.com/huyu516/lifeassistant/master/sreenshots/donwload.png)
+扫码下载
 
 ## 功能
 - 任务：记录每天要完成的任务和查看已经完成的任务
